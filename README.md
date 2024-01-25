@@ -6,6 +6,10 @@ Project done as a part of Kata's Challenge at Globant.
 
 GraphQL is a query language for APIs and a runtime for fulfilling those queries with your existing data. GraphQL provides a complete and understandable description of the data in your API, give clients the power to ask for exactly what they need and nothing more.
 
+## Demo
+
+https://github.com/pedrorau/graphql/assets/42238368/281c8227-b048-4aae-a0ef-85c558b548c7
+
 ## Slides
 
 [GraphQL on Android - Slides](https://docs.google.com/presentation/d/16bluof7hMjhsjYIvrWzhukS0WCttd6BDmKrMKFEz15M/edit?usp=sharing)
