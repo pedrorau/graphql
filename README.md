@@ -12,7 +12,7 @@ https://github.com/pedrorau/graphql/assets/42238368/281c8227-b048-4aae-a0ef-85c5
 
 ## Slides
 
-[GraphQL on Android - Slides](https://docs.google.com/presentation/d/16bluof7hMjhsjYIvrWzhukS0WCttd6BDmKrMKFEz15M/edit?usp=sharing)
+[GraphQL on Android - Slides](https://docs.google.com/presentation/d/1GVoZ2mJ4CVFoBpDhD0mR-SvPROWzbbMq/edit?usp=sharing&ouid=111576484414996370411&rtpof=true&sd=true)
 
 ## Dependencies
 
